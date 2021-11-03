@@ -1,2 +1,2 @@
-Ceep é um anotador de tarefas , tipo  sticky note , com data e horário , botão de conclui e de delete ;
-Projeto feito com a ajuda da Alura ; 
+Ceep is a sticky note , with date and time, delete and complete buttons.
+Alura course
